@@ -1,25 +1,8 @@
 # Delhi-AQI-Analysis
 In-depth analysis of Delhi’s Air Quality Index (AQI) using Python to study pollution trends, key pollutants, and seasonal variations through data visualization.
+Delhi AQI Analysis | ShadowFox Task 2 (Intermediate)
 
-Objectives :
-Analyze AQI trends over time
-Identify key pollutants affecting air quality
-Study seasonal variations in AQI
+This project analyzes air quality trends in Delhi using pollutant concentration data. Key pollutants such as PM2.5 and PM10 were analyzed to study seasonal variations, identify major pollution contributors, and derive an approximate AQI indicator. The analysis includes statistical insights and visualizations to understand air pollution patterns and their public health impact.
 
-Dataset :
-Source: Central Pollution Control Board (CPCB)
-Features: AQI, PM2.5, PM10, NO₂, SO₂, CO
-
-Tools Used :
-Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
-
-Key Insights :
-PM2.5 and PM10 are the major contributors to AQI
-AQI peaks during winter months
-Air quality improves during monsoon season.
-
-Google Colab Notebook
-🔗 Colab Link:
-
-Conclusion : 
-This analysis highlights the severe air pollution challenges in Delhi and provides data-driven insights to support air quality improvement and public health initiatives.
+🔗 Google Colab Notebook:
+ Colab Link: https://colab.research.google.com/drive/1ZPagzkS9XtzeFLyDEHjXkt4lZFKa23Hc?usp=sharing
